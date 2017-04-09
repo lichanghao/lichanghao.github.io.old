@@ -9,8 +9,6 @@ header-mask: 0.3
 catalog:    true
 tags:
     - git
-    - github
-    - 基础
 ---
 
 [github](https://en.wikipedia.org/wiki/GitHub)是一个开源代码库，Github使用git分布式版本控制系统。git最初用作Linux内核代码的管理。目前Github有140万的用户，其中不乏各种技术大牛。可以说，Github就是程序员业内的Facebook。你在这里可以轻易的找到优秀的开源代码，并不用花任何代价地Fork下来，并作出自己的改动，你还可以继续向开源代码的原作者发出Pullrequests，尝试把自己对开源项目作出的改变融合到主版本。总而言之，Github很好很强大。下面我作为一个初学者，向大家介绍一下Github的一些基本操作。（基于windows环境）
