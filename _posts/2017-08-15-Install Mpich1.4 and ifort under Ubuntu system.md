@@ -1,6 +1,6 @@
 ---
 layout:            post
-title:             "Install Mpich1.4 and ifort under Ubuntu system"
+title:             "Install Mpich1.4 and ifort under Ubuntu System"
 date:              2017-08-15 17:10:00 +0300
 tags:              Mpich ifort Ubuntu installation
 category:          Features
@@ -86,6 +86,13 @@ Finally, I found the correct solution in the [**Ubuntu documentations**](https:/
 ```
 
 I installed all the depending packages and runned all commands as the instruction above. Then recheck the installation prerequisites, and the problems were finally solved.
+
+NOTE: you need to edit ```~/.bashrc``` to add the ifort into PATH.
+
+```
+alias ifort='opt/intel/compilers_and_libraries/linux/bin/intel64/ifort'
+source /opt/intel/bin/ifortvars.sh intel64
+```
 
 By the way, during the installation of ```ifort```, I need to expand the root filesystem of ```Ubuntu```. This blog is very helpful. [How to expand the root filesystem of a 12.04 Ubuntu running inside VMware player](https://hexeract.wordpress.com/2012/04/30/how-to-expand-the-root-filesystem-of-a-11-10-ubuntu-running-inside-vmware-player)
 
