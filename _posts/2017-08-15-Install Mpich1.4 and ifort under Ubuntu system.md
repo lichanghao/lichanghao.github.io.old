@@ -12,22 +12,22 @@ author:            Changhao Li
 
 # Problem Discription
 
-I need to compile some Fortran codes using MPI. However, Windows does not work because Mpich does not correctly support Windows. Then I installed VMware, and installed Ubuntu as virtual system. Then I need to install Mpich and ifort compiler in the Ubuntu virtual system. But some problems happened, the Mpich configuration program cannot recognize the ifort. 
+I need to compile some Fortran codes using MPI. However, Windows does not work because Mpich does not correctly support Windows. Then I installed VMware, and installed Ubuntu as virtual system. Then I need to install ```Mpich``` and ```ifort``` compiler in the Ubuntu virtual system. But some problems happened, the ```Mpich``` configuration program cannot recognize the ```ifort```. 
 
 ```searching ifort... no```
 
-But ifort has correctly installed in the system. I am beginner of Linux system, so I was very confused for this.
+But ```ifort``` has correctly installed in the system. I am beginner of Linux system, so I was very confused for this.
 
 ```
 $ ifort -v
 ifort version: xxxx
 ```
 
-I searched this problem on the Internet, finally locked the solution and solved it. It was because under 64-bit Ubuntu system, some 32-bit packages are needed for the correct installation of ifort, but I omited this, and ifort cannot operate properly.
+I searched this problem on the Internet, finally locked the solution and solved it. It was because under 64-bit Ubuntu system, some 32-bit packages are needed for the correct installation of ```ifort```, but I omited this, and ```ifort``` cannot operate properly.
 
 # Solution
 
-When I was runnning the installation program of the Intel Parallel Studio XE(including ifort compiler), in the STEP5, this program checked the prerequisites of the installation. And such warning information is shown:
+When I was runnning the installation program of the ```Intel Parallel Studio XE```(including ifort compiler), in the STEP5, this program checked the prerequisites of the installation. And such warning information is shown:
 
 ```
 Missing optional prerequisites
@@ -43,7 +43,7 @@ One or more of these libraries could not be found:
 	glibc
 	libgcc
 ```
-Then common solution should be directly download and install these packages using apt-get.
+Then common solution should be directly download and install these packages using ```apt-get```.
 
 ```
 $ sudo apt-get install libstdc++ glibc libgcc
@@ -56,14 +56,14 @@ E: Unable to locate package glibc
 E: Unable to locate package libgcc
 ```
 
-It got me confused again. I tried to google this error information, most people said that I should update the apt-get source.
+It got me confused again. I tried to google this error information, most people said that I should update the ```apt-get``` source.
 
 ```
 $ sudo apt-get update
 $ sudo apt-get upgrade
 ```
 
-But after the apt-get updated, nothing happened, and ```glibc``` and ```libgcc``` still cannot be found.
+But after the ```apt-get``` updated, nothing happened, and ```glibc``` and ```libgcc``` still cannot be found.
 
 Finally, I found the correct solution in the [**Ubuntu documentations**](https://help.ubuntu.com/community/InstallingCompilers). Here has sufficient instruction about all kinds of compilers. It is shown that 
 :
@@ -88,6 +88,9 @@ Finally, I found the correct solution in the [**Ubuntu documentations**](https:/
 I installed all the depending packages and runned all commands as the instruction above. Then recheck the installation prerequisites, and the problems were finally solved.
 
 By the way, during the installation of ```ifort```, I need to expand the root filesystem of ```Ubuntu```. This blog is very helpful. [How to expand the root filesystem of a 12.04 Ubuntu running inside VMware player](https://hexeract.wordpress.com/2012/04/30/how-to-expand-the-root-filesystem-of-a-11-10-ubuntu-running-inside-vmware-player)
+
+The detailed installation procedures of Mpich is here: [MPI Tutorial](mpitutorial.com/tutorials/)
+The download and installation source of ```Intel Parallel Studio XE``` is here: [Free Software Tools](https://software.intel.com/en-us/qualify-for-free-software/student)
 
 # Summary
 
