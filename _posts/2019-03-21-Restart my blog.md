@@ -18,7 +18,7 @@ It has been **one and half year** since I posted my last blog [**Install Mpich1.
 
 - Main reason, I am literally very lazy and easy to lose motivation for many thing (**one of my deadly weakness**). I have realized that for quite a long time, and trying to correct this (do my best).
 
-- Second reason, writing blog needs me to be **highly concentrated** (or produce some crap), **fully motivated** (or produce something unfinished), and **be well-organized**. So writing blog is kind of demanding, and I am happen to be a perfectionist. Here is a sudo-formula that I realized after several failure:
+- Second reason, writing blog needs me to be **highly concentrated** (or produce some crap), **fully motivated** (or produce something unfinished), and **be well-organized** (or produce something myself cannot even understand after days). So writing blog is kind of demanding, and I am happen to be a perfectionist. Here is a sudo-formula that I realized after several failure:
 
 ```
 perfectionism + laziness = doing nothing and totally failing
