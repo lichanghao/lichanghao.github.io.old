@@ -2,7 +2,7 @@
 layout:            post
 title:             "Restart my Blog"
 date:              2019-03-21 23:35:00 +0300
-tags:              随笔
+tags:              
 comments:			  true
 category:          Features
 catalog:    		  true
