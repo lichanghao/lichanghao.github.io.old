@@ -67,7 +67,7 @@ duoshuo_share:                     # set to false if you want to use Comment wit
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Hi there. I'm Changhao Li (李昌浩), currently a first-year Ph.D student in Engineering Mechanics, Penn State. My major is computational material science. My hobbies are coding, badminton, swimming, and guitar. I am always looking for online or offline friends who are fully energetic."
+sidebar-about-description: "A learner and a traveller"
 sidebar-avatar: /img/head.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
