@@ -2,8 +2,8 @@
 title: Lichanghao Blog
 SEOTitle: 李昌浩的博客 | Lichanghao Blog
 header-img:  "img/post-bg-re-vs-ng2.jpg"
-email: 542103276@qq.com
-description: "大学生，宅，爱好折腾"
+email: czl478@psu.edu
+description: "Ph.D Student in Engineering Mechanics"
 keyword: "生活随感，学习笔记，其他"
 url: "https://lichanghao.github.io/"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
@@ -68,7 +68,7 @@ duoshuo_share:                     # set to false if you want to use Comment wit
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "学如逆水行舟，不进则退"
-sidebar-avatar: /img/avatar-hux.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/head.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 

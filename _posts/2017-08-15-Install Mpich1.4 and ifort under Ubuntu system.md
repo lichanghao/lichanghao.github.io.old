@@ -99,6 +99,24 @@ By the way, during the installation of ```ifort```, I need to expand the root fi
 The detailed installation procedures of Mpich is here: [MPI Tutorial](mpitutorial.com/tutorials/)
 The download and installation source of ```Intel Parallel Studio XE``` is here: [Free Software Tools](https://software.intel.com/en-us/qualify-for-free-software/student)
 
+# Other Trivial Problems
+
+<**1**>. How to compile and link Fortran codes under ```ifort``` and ```Mpich```: 
+
+```
+$ mpif90 -c xxx1.f90 xxx2.f90 xxx3.f90
+$ mpif90 -o test xxx1.o xxx2.o xxx3.o
+$ ./test
+```
+or
+
+```
+$ mpif90 test xxx1.f90 xxx2.f90 xxx3.f90
+```
+<**2**>. Under the ```Mac OS X``` system, the default searching path in Fortran is ```user/<username>/``` instead of the current folder. 
+
+
+
 # Summary
 
 **1. the instructions and warnings of installation program should be fully noticed and respected, or some unexpected problems may happen, which could be very confusing and time-consuming.**
