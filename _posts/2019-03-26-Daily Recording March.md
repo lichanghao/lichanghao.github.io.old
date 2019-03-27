@@ -30,3 +30,21 @@ author:            Changhao Li
 7. Took 1 hour reading the book Time as a Friend, very roughly but inspired me a lot.
 
 8. Went to sleep at 12:30AM.
+
+# 3/26/2019
+
+1. Getting up at 7AM
+
+2. Kinetics class from 9AM to 10:30AM
+
+3. Swimming from 11:00AM to 12:00PM
+
+4. Researching in MSC (read two papers, one about the thermodynamic theory of surface tension. finished the free diamond surface calculation) from 12:20PM to 3:00PM
+
+5. Coming back home and sleeping from 3:30PM to 6:00PM
+
+6. Setting up the comsol model for liquid metal project from 6:00PM to 7:00PM
+
+7. Eating dinner and playing card game in Mutong's home
+
+8. Went to sleep at 12:00AM.
