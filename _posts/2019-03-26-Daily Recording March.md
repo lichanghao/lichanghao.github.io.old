@@ -48,3 +48,19 @@ author:            Changhao Li
 7. Eating dinner and playing card game in Mutong's home
 
 8. Went to sleep at 12:00AM.
+
+# 3/27/2019
+
+1. Getting up at 7AM
+
+2. Daily routine (80%)
+
+3. sleeping at 11:20PM
+
+# 3/27/2019
+
+1. Getting up at 7AM
+
+2. Daily routine (70%)
+
+3. sleeping at 11:40PM
