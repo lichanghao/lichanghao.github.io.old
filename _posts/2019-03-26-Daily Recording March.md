@@ -57,10 +57,19 @@ author:            Changhao Li
 
 3. sleeping at 11:20PM
 
-# 3/27/2019
+# 3/28/2019
 
 1. Getting up at 7AM
 
 2. Daily routine (70%)
 
 3. sleeping at 11:40PM
+
+# 4/5/2019
+
+My wisdom tooth was inflamming and it was pretty painful, so I ceased to update for 1 week
+
+1. Getting up at 8AM
+
+2. Do nothing
+
