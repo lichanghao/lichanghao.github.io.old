@@ -1,6 +1,6 @@
 # Site settings
 title: Lichanghao Blog
-SEOTitle: Lichanghao Blog | 李昌浩的博客 
+SEOTitle: Lichanghao Blog | 李昌浩的博客
 header-img:  "img/post-bg-re-vs-ng2.jpg"
 email: czl478@psu.edu
 description: "Ph.D Student in Engineering Mechanics"
@@ -12,11 +12,11 @@ baseurl: ""                             # for example, '/blog' if your blog host
 
 # SNS settings
 RSS: true
-#weibo_username:    
+#weibo_username:
 #zhihu_username:    makisekurisu-14
 #github_username:   lichanghao
-#twitter_username:  
-#facebook_username:  
+#twitter_username:
+#facebook_username:
 # linkedin_username:  firstname-lastname-idxxxx
 
 
@@ -52,7 +52,7 @@ kramdown:
 disqus_username: changhaoli
 
 # Duoshuo settings
-# duoshuo_username: 
+# duoshuo_username:
 # Share component is depend on Comment so we can NOT use share only.
 # duoshuo_share:                     # set to false if you want to use Comment without Sharing
 
@@ -67,7 +67,7 @@ disqus_username: changhaoli
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "A learner and a traveller"
+sidebar-about-description: "I wish I can be always energetic"
 sidebar-avatar: /img/head.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
