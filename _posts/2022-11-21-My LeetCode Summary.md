@@ -45,6 +45,8 @@ Mindset (Disclamer: every article in this category needs years of practice):
 
 [Teach Yourself CS](https://teachyourselfcs.com)
 
+[Teach Yourself Programming in Ten Years](https://norvig.com/21-days.html)
+
 [把时间当做朋友（Time as a Friend）](https://github.com/xiaolai/time-as-a-friend)
 
 ## In the end
