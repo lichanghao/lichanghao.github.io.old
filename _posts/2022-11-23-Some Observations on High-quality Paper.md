@@ -1,6 +1,6 @@
 ---
 layout:            post
-title:             "My LeetCode Summary"
+title:             "Some Random Thinking on Scientific Writing"
 date:              2022-11-23 16:27:00 +0800
 tags:              Writing skills
 comments:			  true
