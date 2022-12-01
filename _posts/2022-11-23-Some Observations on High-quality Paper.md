@@ -13,4 +13,10 @@ author:            Changhao Li
 
 Recently I has been crazily writing papers for previously stacked unpublished works, and today just got one paper rejected by the editor of *Nature Communications*. When I am reading the highly-cited paper on prestigous journals such as *Nature*, *Science*, *PNAS*, I am always impressed by their efforts and skills shown in writing and figures. Their wording is so clear and fine-tuned, and their figures are so rich and well-designed. I always try to imitate their styles but can not really approach their quality. However, I still observed some good characteristics shared by those impressive papers.
 
-## Layout of Writing
+## Updates on 11/30/2022
+
+Just finished another draft on machine learning and phase-field simulations. Several improvements I have made:
+
+1. Using the present tense for most senario.
+2. Replacing vague wording with exact description as much as possible. For example, replacing "mechano-biochemical processes" with "the generation and transmission of traction forces, and the diffusion and formation of adhesion species". These details show the width of knowledge base and the writing skills of the writer.
+3. Using logic and transitions when constructing sentences and paragraphs. This makes the reader easier to follow. Never expect anyone to take more than 30 seconds to try to understand your obscure stuff.
