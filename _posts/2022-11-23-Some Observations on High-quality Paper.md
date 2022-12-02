@@ -20,3 +20,8 @@ Just finished another draft on machine learning and phase-field simulations. Sev
 1. Using the present tense for most senario.
 2. Replacing vague wording with exact description as much as possible. For example, replacing "mechano-biochemical processes" with "the generation and transmission of traction forces, and the diffusion and formation of adhesion species". These details show the width of knowledge base and the writing skills of the writer.
 3. Using logic and transitions when constructing sentences and paragraphs. This makes the reader easier to follow. Never expect anyone to take more than 30 seconds to try to understand your obscure stuff.
+
+## Interest wording
+
+1. "Garner growing interest in"
+2. "Recapitulate the emergence of"
