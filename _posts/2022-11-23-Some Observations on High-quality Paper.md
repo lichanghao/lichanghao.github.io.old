@@ -25,3 +25,10 @@ Just finished another draft on machine learning and phase-field simulations. Sev
 
 1. "Garner growing interest in"
 2. "Recapitulate the emergence of"
+3. 
+
+## Commonly used replacements
+
+1. important - essential, crucial, critical
+2. change - engineer, tailor
+3. significantly - notably
