@@ -23,4 +23,4 @@ where $k$ is the bending modulus, $\kappa(\mathbf{r})$ is the local curvature, a
 
 As stated in [2008 Qiang Du et al.](https://link.springer.com/article/10.1007/s00285-007-0118-2), above energy can be reformulated in a way of phase-field modeling, by
 
-$$ E_{el}=\int_{\Omega} \frac{k}{2\epsilon}(\epsilon\Delta\phi+(\frac{1}{\epsilon}\phi+c_0\sqrt(2))(1-\phi^2))^2dV \label{eq2}\tag2$$
+$$ E_{el}=\int_{\Omega} \frac{k}{2\epsilon}(\epsilon\Delta\phi+(\frac{1}{\epsilon}\phi+c_0\sqrt{2})(1-\phi^2))^2dV \label{eq2}\tag2$$
