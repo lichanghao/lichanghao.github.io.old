@@ -37,5 +37,13 @@ $$ L(\phi, \eta) = \int_{\Omega}\delta [\frac{\epsilon}{2}|\nabla\phi|^2 + \frac
 
 where $\delta$ is the magnitude of line tension, $\epsilon$ and $\xi$ are   parameters controlling the interfacial thickness of $\phi$ and $\eta$, respectively. Apparently, the energy density of $L(\phi, \eta)$ only take non-zero value near the phase bounaries, which is exactly what we want, to automatically tracking the moving bounadries again.
 
+Since now we have two phases ($\eta=1$ and $\eta=0$) on the membrane denoted by the order parameter $\phi$, the Equation (\ref{eq2}) should also be the function of $\eta$. It is easy to come up with, $\eta$ changes the physical properties of local regions. Here we assume the bending modulus $k$ and the spontaneous curvature $c_0$. The modified bending energy function is:
+
+$$ E_{el}(\phi, \eta) = \int_{\Omega} \frac{k(\eta)}{2\epsilon}(\epsilon\Delta\phi+(\frac{1}{\epsilon}\phi+c_0(\eta)\sqrt{2})(1-\phi^2))^2dV \label{eq5}\tag5$$
+
+
+where $k(\eta)$ and $c_0(\eta)$ give constitutive relation for different phases. The two parameter create freedom for a variety of different physical problems.
+
+In real world, membrane is easy to bend but difficult to stretch. Also, closed biomembrane always keep nearly constant volume becaue of osmotic pressure. We further add two energy penalty term to model the constaint on surface area and the total volume, written as:
 
 
