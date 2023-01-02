@@ -67,7 +67,7 @@ disqus_username: changhaoli
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "I wish I can be always energetic"
+sidebar-about-description: "My personal blog sharing academic progress, hobbies, and daily life"
 sidebar-avatar: /img/head.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
