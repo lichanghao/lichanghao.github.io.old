@@ -1,6 +1,6 @@
 # Site settings
-title: Lichanghao Blog
-SEOTitle: Lichanghao Blog | 李昌浩的博客
+title: Changhao Li's Blog
+SEOTitle: Changhao Li's Blog | 李昌浩的博客
 header-img:  "img/post-bg-re-vs-ng2.jpg"
 email: czl478@psu.edu
 description: "Ph.D Student in Engineering Mechanics"
@@ -14,10 +14,10 @@ baseurl: ""                             # for example, '/blog' if your blog host
 RSS: true
 #weibo_username:
 #zhihu_username:    makisekurisu-14
-#github_username:   lichanghao
+github_username: lichanghao
 #twitter_username:
 #facebook_username:
-# linkedin_username:  firstname-lastname-idxxxx
+linkedin_username: changhao-li-72b850140
 
 
 
