@@ -11,7 +11,7 @@ header-mask:       0.3
 author:            Changhao Li
 ---
 
-This is is the development log for a project I was recently working on.
+This is the development log for a project I was recently working on.
 
 ## Formalism
 
