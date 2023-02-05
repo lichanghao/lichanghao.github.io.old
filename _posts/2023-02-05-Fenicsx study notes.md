@@ -1,7 +1,7 @@
 ---
 layout:            post
 title:             "FEniCSx study notes"
-date:              2023-02-05 16:27:00 +0800
+date:              2022-02-05 16:27:00 +0800
 tags:              Research
 comments:			  true
 category:          Features
