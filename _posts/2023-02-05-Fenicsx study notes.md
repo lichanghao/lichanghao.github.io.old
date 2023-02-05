@@ -23,9 +23,13 @@ Beginning from 2018, the FEniCS project adapted a new framework, including multi
 
 
 1. [FEniCSx Discourse Group](https://fenicsproject.discourse.group)
+
 2. [FEniCSx Tutorial (New version, not very complete, mainly for dolfinx)](https://jsdokken.com/dolfinx-tutorial/fem.html)
+
 3. [FEniCS Book (Based on lagacy version, not even 2019.1)](http://launchpad.net/fenics-book/trunk/final/+download/fenics-book-2011-10-27-final.pdf)
+
 4. [FEniCSx Github (Newest version)](https://github.com/FEniCS)
+
 5. [FEniCSx official website](https://fenicsproject.org)
 
 ## Get started: 1D boundary value problem
