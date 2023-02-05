@@ -15,7 +15,7 @@ This note records my study route of FEniCS, an open-source finite element librar
 
 ## About FEniCS
 
-FEniCS is an acronym with FE representing finite element, CS representing computational software, and according to Anders Logg, a Senior Research Scientist with the FEniCS Project, "ni sits nicely in the middle". Andy Terrel also notes that the FEniCS software package was originally compiled at the University of Chicago, whose mascot is a phoenix, which likely inspired the name. 
+FEniCS is an acronym with FE representing finite element, CS representing computational software. The FEniCS software package was originally compiled at the University of Chicago, whose mascot is a phoenix, which likely inspired the name. 
 
 Beginning from 2018, the FEniCS project adapted a new framework, including multiple building blocks: UFL, Basix, FFCx and DOLFINx. The legacy version of FEniCS is composed of UFL, FIAT, FFC and DOLFIN. There are multiple versions of documentations/tutorials online, for both newest release and the legacy version. Also, the questions/answers online are based on different versions. **The grammar for FEniCSx and its legacy version is quite different. Newest version is recommended.**
 
